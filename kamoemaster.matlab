@@ -1,3 +1,0 @@
- 
-print(kamoedepamoe)
-return nothing
